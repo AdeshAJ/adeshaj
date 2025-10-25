@@ -47,47 +47,6 @@ Automating everything I can 🤖⚡ | Cloud junkie ☁️🌥️ | CI/CD fan �
 
 ---
 
-### 🚀 Projects
-
-🌟 **My Key Projects**  
-
----
-
-### 1. CI-CD-using-GitHub-Actions 🤖🚀
-- Demonstrates practical CI/CD workflow using GitHub Actions.  
-- Includes containerized builds with Docker 🐳.  
-- Key for showcasing DevOps automation skills ⚡.  
-
----
-
-### 2. Jenkins-Pipeline-for-CI-CD 🔧📦
-- Implements a full Jenkins pipeline for build and deployment automation.  
-- Highlights expertise in industry-standard CI/CD tools ⚡.  
-- Essential for hands-on DevOps experience 🚀.  
-
----
-
-### 3. Infrastructure-as-Code-IaC-with-Terraform 🌱☁️
-- Terraform-based infrastructure provisioning on cloud platforms like AWS ☁️.  
-- Demonstrates Infrastructure as Code (IaC) best practices 💻.  
-- Important for showcasing cloud automation skills ⚡.  
-
----
-
-### 4. Nginx-on-AWS-using-Terraform 🌐🛠️
-- Deploys a real-world Nginx server on AWS using Terraform ☁️.  
-- Highlights end-to-end cloud deployment and automation 🚀.  
-- Shows practical implementation of DevOps concepts ⚡.  
-
----
-
-### 5. strapi-deployment-terraform- 🖥️🌱
-- Deploys a Strapi CMS application using Terraform ☁️.  
-- Combines cloud infrastructure automation with app deployment 🚀.  
-- Demonstrates ability to handle real-world cloud projects ⚡.  
-
----
-
 
 ### 🏅 Certifications
 
