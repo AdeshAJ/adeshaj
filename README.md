@@ -49,14 +49,39 @@ Automating everything I can 🤖⚡ | Cloud junkie ☁️🌥️ | CI/CD fan �
 
 ### 🚀 Projects
 
-- 🧠 **AI Mock Interviewer** — Next.js + Google Gemini API + Docker  
-  _AI-powered mock interview platform with 90%+ response accuracy._
+🌟 My Key Projects
 
-- 💊 **MediRecML** — Flask + AWS EC2 + Docker + Scikit-learn  
-  _ML-based disease prediction app (87% accuracy, 90% F1-score)._
 
-- ⚙️ **AWS Infra Automation** — Terraform + Nginx + EC2 + VPC  
-  _Automated provisioning of AWS infrastructure using Terraform modules._
+
+1. CI-CD-using-GitHub-Actions 🤖🚀
+
+Demonstrates practical CI/CD workflow using GitHub Actions.
+Includes containerized builds with Docker 🐳.
+Key for showcasing DevOps automation skills ⚡.
+
+2. Jenkins-Pipeline-for-CI-CD 🔧📦
+   
+Implements a full Jenkins pipeline for build and deployment automation.
+Highlights expertise in industry-standard CI/CD tools ⚡.
+Essential for hands-on DevOps experience 🚀.
+
+3. Infrastructure-as-Code-IaC-with-Terraform 🌱☁️
+
+Terraform-based infrastructure provisioning on cloud platforms like AWS ☁️.
+Demonstrates Infrastructure as Code (IaC) best practices 💻.
+Important for showcasing cloud automation skills ⚡.
+
+4. Nginx-on-AWS-using-Terraform 🌐🛠️
+
+Deploys a real-world Nginx server on AWS using Terraform ☁️.
+Highlights end-to-end cloud deployment and automation 🚀.
+Shows practical implementation of DevOps concepts ⚡.
+
+5. strapi-deployment-terraform- 🖥️🌱
+
+Deploys a Strapi CMS application using Terraform ☁️.
+Combines cloud infrastructure automation with app deployment 🚀.
+Demonstrates ability to handle real-world cloud projects ⚡.
 
 ---
 
