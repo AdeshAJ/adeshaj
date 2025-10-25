@@ -16,12 +16,14 @@
 </p>
 
 ---
-##🌟 About Me
+
+
+## 🌟About me
 <p>🚀 DevOps Engineer passionate about cloud automation, CI/CD, and infrastructure as code.
 Skilled in AWS, Terraform, Docker, Kubernetes, and Python scripting.
 I love building scalable, reliable systems and exploring how AI and automation can transform developer workflows.
 
-💡 Always learning | 💻 Automating Everything | ☁️ AWS | ⚙️ Terraform | 🐳 Docker | ☸️ Kubernetes <p/>
+Automating everything I can 🤖⚡ | Cloud junkie ☁️🌥️ | CI/CD fan 🚀🔧 | Always breaking and fixing pipelines 💥🛠️ <p/>
 
 
 
