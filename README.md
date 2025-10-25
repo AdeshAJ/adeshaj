@@ -51,10 +51,17 @@
 
 ### 📈 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeshjavir&show_icons=true&theme=radical" alt="Adesh's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshjavir&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adeshaj&show_icons=true&theme=radical" alt="adeshaj's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshaj&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeshaj&theme=radical" alt="GitHub Streak" height="165" />
+</p>
+
 
 ---
 
