@@ -1,30 +1,78 @@
-# 👋 Hi, I'm Adesh Javir  
+<!-- Profile README for Adesh Javir -->
 
-🚀 **DevOps Engineer** | ☁️ **AWS | Terraform | Docker | Kubernetes**  
+<h1 align="center">👋 Hi, I'm Adesh Javir</h1>
 
-I’m passionate about automating cloud infrastructure, optimizing CI/CD pipelines, and building scalable, secure systems.  
+<p align="center">
+  🚀 <b>DevOps Engineer</b> | ☁️ <b>AWS | Terraform | Docker | Kubernetes</b>  
+</p>
 
-### 🧰 Tech Stack
-- **Cloud:** AWS, Azure, GCP  
-- **DevOps Tools:** Terraform, Jenkins, GitHub Actions, Docker, Kubernetes  
-- **Languages:** Python, Bash, Java  
-- **Monitoring:** AWS CloudWatch  
-- **Other:** Linux, Git, Agile  
-
-### 🌟 Projects
-- 🧠 **AI Mock Interviewer** – Next.js + Google Gemini API  
-- 💊 **MediRecML** – ML-based disease prediction app  
-- ⚙️ **AWS Infra Automation** – Terraform + Nginx + EC2 provisioning  
-
-### 🎓 Certifications
-- IBM DevOps and Software Engineering (Coursera)  
-- Google AI Essentials  
-- Microsoft Foundations of AI and ML  
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adeshjavir-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adesh-javir/)
-[![Email](https://img.shields.io/badge/Email-adeshjavir1103%40gmail.com-red?style=flat-square&logo=gmail)](mailto:adeshjavir1103@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/adesh-javir/">
+    <img src="https://img.shields.io/badge/LinkedIn-adeshjavir-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:adeshjavir1103@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adeshjavir1103%40gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-💬 “Automate. Optimize. Innovate.”
+### 🧰 Tech Stack
+
+💻 **Languages:** Python, Bash, Java  
+☁️ **Cloud Platforms:** AWS, Azure, GCP  
+🛠️ **DevOps Tools:** Terraform, Jenkins, GitHub Actions, Docker, Kubernetes  
+🔍 **Monitoring:** AWS CloudWatch  
+🗃️ **Databases:** MySQL, PostgreSQL, MongoDB  
+🧩 **Other:** Linux, Git, Agile  
+
+---
+
+### 🚀 Projects
+
+- 🧠 **AI Mock Interviewer** — Next.js + Google Gemini API + Docker  
+  _AI-powered mock interview platform with 90%+ response accuracy._
+
+- 💊 **MediRecML** — Flask + AWS EC2 + Docker + Scikit-learn  
+  _ML-based disease prediction app (87% accuracy, 90% F1-score)._
+
+- ⚙️ **AWS Infra Automation** — Terraform + Nginx + EC2 + VPC  
+  _Automated provisioning of AWS infrastructure using Terraform modules._
+
+---
+
+### 🏅 Certifications
+
+- 🎓 IBM DevOps and Software Engineering (Coursera)  
+- ☁️ Google AI Essentials  
+- 🤖 Microsoft Foundations of AI and ML  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adeshjavir&show_icons=true&theme=radical" alt="Adesh's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshjavir&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### 🌱 About Me
+- 🔧 Passionate about **automation, CI/CD, and cloud infrastructure**  
+- ⚙️ Focused on building **scalable, reliable, and secure systems**  
+- 📘 Currently pursuing **MCA (2024–26)**  
+- 💬 Motto: _“Automate. Optimize. Innovate.”_
+
+---
+
+<p align="center">
+  <b>Let's Connect 🚀</b><br/>
+  <a href="https://www.linkedin.com/in/adesh-javir/">LinkedIn</a> • 
+  <a href="mailto:adeshjavir1103@gmail.com">Email</a> • 
+  <a href="https://github.com/adeshjavir">GitHub</a>
+</p>
+
+---
+
+⭐️ From [adeshjavir](https://github.com/adeshjavir)
